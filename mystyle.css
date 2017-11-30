@@ -1,7 +1,18 @@
 body {
-     background: url("concrete.jpg");
-     color:lime;
-     font-size: 4rem;
+     background: url("openup.jpg")no-repeat center center fixed;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;;
+     color:black;
+     font-size: 2.5rem;
      font-family: 'Permanent Marker', cursive;
+
+}
+
+
+
+#check{
+  margin-left: 700px;
 
 }
